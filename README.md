@@ -1,1 +1,1 @@
-# BlendVision-AI-CRM
+# Agentic-CRM
